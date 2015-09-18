@@ -6,6 +6,7 @@ import java.io.UnsupportedEncodingException;
 
 public class Lab3 {
 	static int N = 10;
+	static int M = 10;
 
 	
 	static void solve(int items [], int size, int l, int rank, PrintWriter writer){	
